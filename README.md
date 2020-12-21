@@ -1,3 +1,3 @@
 # Bootstrap playground!
 
-## Bootstrap5 first steps
+Bootstrap5 first steps
